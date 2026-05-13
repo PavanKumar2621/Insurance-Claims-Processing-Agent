@@ -58,6 +58,7 @@ Insurance-agent/
 │
 ├── uploads/
 ├── logs/
+├── screenshots/
 ├── requirements.txt
 └── README.md
 ```
