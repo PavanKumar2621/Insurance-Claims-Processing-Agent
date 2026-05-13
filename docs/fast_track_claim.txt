@@ -1,0 +1,32 @@
+Policy Number: POL123456
+
+Policyholder Name: Ranga
+
+Effective Dates: 01/01/2026 - 12/31/2026
+
+Date of Loss: 05/11/2026
+
+Time of Loss: 10:30 AM
+
+Location: Mumbai
+
+Claimant: Ranga
+
+Third Parties: John Smith
+
+Contact Details: 9876543210
+
+Asset Type: Car
+
+Asset ID: CAR99881
+
+Claim Type: Collision
+
+Estimated Damage: 18000
+
+Initial Estimate: 20000
+
+Attachments: accident_photo.jpg
+
+Description:
+Vehicle rear-ended at traffic signal.

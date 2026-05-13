@@ -1,0 +1,32 @@
+Policy Number: POL333333
+
+Policyholder Name: Kiran
+
+Effective Dates: 01/01/2026 - 12/31/2026
+
+Date of Loss: 05/15/2026
+
+Time of Loss: 07:45 PM
+
+Location: Bangalore
+
+Claimant: Kiran
+
+Third Parties: Ravi Kumar
+
+Contact Details: 9123456780
+
+Asset Type: Bike
+
+Asset ID: BIKE33221
+
+Claim Type: Injury
+
+Estimated Damage: 30000
+
+Initial Estimate: 35000
+
+Attachments: medical_report.pdf
+
+Description:
+Rider suffered leg injuries after collision with another vehicle.
